@@ -1,0 +1,40 @@
+
+
+.mypics {
+  width: 40%;
+  border-radius: 14px;
+  margin-left: 30%;
+  margin-top: 20px;
+  border-color: black;
+  border-style: inset;
+  border-width: thin medium thick 20px 10px;
+}
+
+.myname {
+  font-family: 'Roboto', sans-serif;
+  font-size: xx-large;
+  display: flex;
+  justify-content: center;
+}
+
+.words {
+  text-align: center;
+  
+}
+
+.div {
+  height: 3px;
+  width: 80%;
+  background-color: rgb(181, 179, 179);
+  margin-left: 100px;
+}
+
+.div2 {
+  height: 3px;
+  width: 50%;
+  background-color: rgb(214, 212, 212);
+  margin-left: 300px;
+  margin-top: 15px;
+}
+
+
